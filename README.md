@@ -1,2 +1,2 @@
 # ABC-Fraud-Detection-Model
-## Prototype Analysis
+It's a Prototype Analysis
